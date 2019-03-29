@@ -1,0 +1,7 @@
+C:\Users\Zlatko\Desktop\C# advanced Homework\CSharpAdvancedHomeworks\Homework01\Homework01\InterfacesHomework\bin\Debug\InterfacesHomework.exe.config
+C:\Users\Zlatko\Desktop\C# advanced Homework\CSharpAdvancedHomeworks\Homework01\Homework01\InterfacesHomework\bin\Debug\InterfacesHomework.exe
+C:\Users\Zlatko\Desktop\C# advanced Homework\CSharpAdvancedHomeworks\Homework01\Homework01\InterfacesHomework\bin\Debug\InterfacesHomework.pdb
+C:\Users\Zlatko\Desktop\C# advanced Homework\CSharpAdvancedHomeworks\Homework01\Homework01\InterfacesHomework\obj\Debug\InterfacesHomework.csprojAssemblyReference.cache
+C:\Users\Zlatko\Desktop\C# advanced Homework\CSharpAdvancedHomeworks\Homework01\Homework01\InterfacesHomework\obj\Debug\InterfacesHomework.csproj.CoreCompileInputs.cache
+C:\Users\Zlatko\Desktop\C# advanced Homework\CSharpAdvancedHomeworks\Homework01\Homework01\InterfacesHomework\obj\Debug\InterfacesHomework.exe
+C:\Users\Zlatko\Desktop\C# advanced Homework\CSharpAdvancedHomeworks\Homework01\Homework01\InterfacesHomework\obj\Debug\InterfacesHomework.pdb
