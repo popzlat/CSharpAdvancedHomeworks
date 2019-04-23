@@ -65,7 +65,7 @@ namespace ConsoleApp1
         }
         public static bool operator !=(Customer a, Customer b)
         {
-            return a.Name == b.Name && a.Address == b.Address && a.City == b.City;
+            return !(a.Name == b.Name && a.Address == b.Address && a.City == b.City);
         }
 
 
