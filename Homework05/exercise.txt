@@ -1,0 +1,17 @@
+Zadaca 1. Vo demoto CustomersString za klasata Customer da se implementira interfejsot IEquatable<T>.
+Zadaca 2. Da se overloaduvaat opratorite == i != za dva objekti od klasata Customer.
+
+Kriterium za sporedba da bide Property po vash izbor i vo dvata slucai
+
+Sledniot kod treba da raboti.
+
+Zadaca 1:
+Console.WriteLine("Equality c1 and c5 {0}", c1.Equals(c5));
+ 
+Zadaca 2" 
+if (c1 == c5)
+	Console.WriteLine("c1 == c5");
+else
+	Console.WriteLine("c1 != c5");
+
+Kreirajte drug object od Customer taka shto da bide ednakov so nekoj od vekje kreiranite. Testirajte Equality.
