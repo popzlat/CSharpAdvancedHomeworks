@@ -27,7 +27,8 @@ namespace ConsoleApp1
             else
                 Console.WriteLine("c1 != c5");
 
-
+            Console.WriteLine(c1 == c6);
+            
             Console.ReadLine();
         }
     }
